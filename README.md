@@ -1,115 +1,266 @@
-<div align="center">
+ <div align="center">
 
-<!-- ===================== HERO SECTION ===================== -->
+<!-- ═══════════════ CINEMATIC HERO ═══════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:7C3AED&height=250&section=header&text=VIGNESH%20KUMAR&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020617,30:172554,65:312E81,100:0891B2&text=VIGNESH%20KUMAR&fontSize=55&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20FULL%20STACK%20%7C%20AI&descSize=16&descAlignY=58&descColor=BAE6FD"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2300&pause=700&color=67E8F9&center=true&vCenter=true&width=850&height=55&lines=Welcome+to+my+digital+universe+%F0%9F%8C%8C;Building+ideas+into+real+applications+%F0%9F%9A%80;Exploring+AI+and+Machine+Learning+%F0%9F%A4%96;Java+%7C+Python+%7C+SQL+%7C+Web+Development;Learn.+Build.+Innovate.+Repeat.+%E2%9A%A1" alt="Animated developer introduction"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=850&lines=Computer+Science+%26+Engineering+Student;Building+Real-World+Software+Solutions;Full+Stack+Web+Developer;Exploring+Artificial+Intelligence;Data+%26+Business+Intelligence+Enthusiast;Java+%7C+Python+%7C+JavaScript+%7C+React;Turning+Ideas+Into+Scalable+Applications;Always+Learning+%7C+Always+Building+%7C+Always+Growing" alt="Typing Animation"/>
+<img src="https://img.shields.io/badge/EDUCATION-BE%20CSE%20%7C%202027-0891B2?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-4F46E5?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-7C3AED?style=for-the-badge&logo=rocket&logoColor=white"/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=vignesh456&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
-
-<img src="https://img.shields.io/github/followers/vignesh456?label=FOLLOWERS&style=for-the-badge&color=6366F1" alt="Followers"/>
-
-<img src="https://img.shields.io/github/stars/vignesh456?label=STARS&style=for-the-badge&color=8B5CF6" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=vignesh452006&label=PROFILE%20VIEWS&color=0891B2&style=for-the-badge" alt="Profile views"/>
+<a href="https://github.com/vignesh452006?tab=followers">
+<img src="https://img.shields.io/github/followers/vignesh452006?style=for-the-badge&logo=github&label=FOLLOWERS&color=4F46E5" alt="GitHub followers"/>
+</a>
 
 <br/><br/>
 
+<a href="https://github.com/vignesh452006">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 <a href="https://www.linkedin.com/in/vignesh-kumar456">
-<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:chandranvignesh2006@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/vignesh456">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
-
-<br/>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
-
-<h2 align="center">👨‍💻 About Me</h2>
+<!-- ═══════════════ ABOUT ME ═══════════════ -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Passionate+About+Building+Technology;Focused+on+Problem+Solving;Interested+in+AI+%26+Full+Stack+Development;Learning+Something+New+Every+Day" alt="About Animation"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:020617,50:1D4ED8,100:0891B2&text=01%20%7C%20ABOUT%20ME&fontSize=24&fontColor=FFFFFF&animation=fadeIn"/>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2600&pause=800&color=A5F3FC&center=true&vCenter=true&width=700&height=35&lines=Curious+mind.+Creative+solutions.;Learning+today.+Building+tomorrow.;Turning+ideas+into+software." alt="About me animation"/>
 
 </div>
 
+👋 Hi! I'm **Vignesh Kumar**, a final-year B.E. Computer Science and Engineering student graduating in 2027.
+
+I'm an aspiring Software Developer and Full Stack Developer who enjoys learning new technologies, developing applications, and solving programming problems.
+
+- 🎓 **Education:** B.E. Computer Science and Engineering
+- 🏛️ **College:** PSRR College of Engineering
+- 💻 **Career goal:** Software Developer
+- 🌐 **Interests:** Full Stack Web Development and Software Engineering
+- 🤖 **Exploring:** Artificial Intelligence and Machine Learning
+- 🧩 **Practicing:** Data Structures and Algorithms
+- 🗄️ **Learning:** SQL and database management
+- 🚀 **Mission:** Build practical projects and continuously improve my skills
+
+---
+
+<!-- ═══════════════ DEVELOPER MINDSET ═══════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:111827,50:4338CA,100:7C3AED&text=02%20%7C%20DEVELOPER%20MINDSET&fontSize=23&fontColor=FFFFFF"/>
+
+</div>
+
+```yaml
+developer:
+  name: Vignesh Kumar
+  github: vignesh452006
+  graduation: 2027
+
+career_goal:
+  - Software Developer
+  - Full Stack Developer
+
+interests:
+  - Artificial Intelligence
+  - Machine Learning
+  - Web Development
+  - Data Structures and Algorithms
+  - Database Management
+
+learning_path:
+  - Java
+  - Python
+  - SQL
+  - Flask
+  - HTML and CSS
+  - JavaScript
+  - Git and GitHub
+
+workflow:
+  - Understand the problem
+  - Plan the solution
+  - Write clean code
+  - Test and debug
+  - Improve and learn
+```
+
+---
+
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:020617,50:1D4ED8,100:06B6D4&text=03%20%7C%20TECH%20STACK&fontSize=24&fontColor=FFFFFF"/>
+
+<br/><br/>
+
+### ⚡ Programming Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js&theme=dark" alt="Programming languages"/>
+
+### 🌐 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Frontend technologies"/>
+
+### ⚙️ Backend Development
+
+<img src="https://skillicons.dev/icons?i=python,flask&theme=dark" alt="Backend technologies"/>
+
+### 🗄️ Database Technologies
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&theme=dark" alt="Database technologies"/>
+
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Development tools"/>
+
 <br/>
 
-<table align="center">
+<img src="https://img.shields.io/badge/AI%20%26%20ML-EXPLORING-7C3AED?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-PRACTICING-0891B2?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-LEARNING-2563EB?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+
+---
+
+<!-- ═══════════════ PROJECT UNIVERSE ═══════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:020617,50:6D28D9,100:DB2777&text=04%20%7C%20PROJECT%20UNIVERSE&fontSize=23&fontColor=FFFFFF"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=700&color=F0ABFC&center=true&vCenter=true&width=650&height=35&lines=Build+with+purpose.;Create+with+curiosity.;Improve+with+every+project." alt="Project animation"/>
+
+</div>
+
+<table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Education
+### 🧠 AI-Powered Quiz Master
 
-- **B.E. Computer Science & Engineering**
-- **PSRR College of Engineering**
-- Computer Science & Software Development
-- Expected Graduation: **2027**
+<a href="https://github.com/vignesh452006/QUIZ-MASTER">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Quiz Master repository"/>
+</a>
+
+A quiz and learning management application focused on quiz creation, assessment, result tracking, and AI-assisted question generation.
+
+**Technologies:** Python, Flask, SQLAlchemy, SQLite, JavaScript.
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%">
+### 💬 Chat Application
 
-### 🚀 Professional Focus
+<a href="https://github.com/vignesh452006/chatapp">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Chat application repository"/>
+</a>
 
-- Software Development
-- Full Stack Development
-- Artificial Intelligence
-- Business Intelligence
-- Data Analytics
-- Problem Solving
-- Automation
+A chat application project exploring conversational interfaces and AI integration.
+
+**Technologies:** JavaScript, Node.js, API integration.
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<a href="https://github.com/vignesh452006?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
+</a>
+
+</div>
+
+> Keep only project links that exist and descriptions that accurately reflect each repository's current implementation. Add more projects as you complete them.
+
+---
+
+<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:020617,50:1D4ED8,100:0891B2&text=05%20%7C%20GITHUB%20ANALYTICS&fontSize=23&fontColor=FFFFFF"/>
+
+<br/><br/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vignesh452006&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh452006&layout=compact&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=E2E8F0&langs_count=8" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=vignesh452006&hide_border=true&background=020617&ring=8B5CF6&fire=06B6D4&currStreakLabel=67E8F9&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="Contribution streak"/>
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vignesh452006&bg_color=020617&color=67E8F9&line=8B5CF6&point=F0ABFC&area=true&hide_border=true&custom_title=CODING%20ACTIVITY" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+<!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:020617,50:312E81,100:0891B2&text=06%20%7C%20CONTRIBUTION%20MATRIX&fontSize=23&fontColor=FFFFFF"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/vignesh452006/vignesh452006/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+---
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=footer&color=0:06B6D4,35:4C1D95,70:172554,100:020617&text=LET'S%20BUILD%20SOMETHING%20GREAT&fontSize=23&fontColor=FFFFFF&fontAlignY=55&animation=fadeIn"/>
+
 <br/>
 
-```yaml
-name: Vignesh Kumar
-username: vignesh456
-education: B.E. Computer Science and Engineering
-college: PSRR College of Engineering
+<a href="https://github.com/vignesh452006">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/vignesh-kumar456">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:chandranvignesh2006@gmail.com">
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-role:
-  - Software Developer
-  - Full Stack Developer
-  - AI Enthusiast
+<br/><br/>
 
-interests:
-  - Artificial Intelligence
-  - Web Development
-  - Data Analytics
-  - Business Intelligence
-  - Automation
-  - Software Engineering
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=800&color=67E8F9&center=true&vCenter=true&width=700&height=40&lines=Thanks+for+visiting+my+profile!;Explore.+Connect.+Create.+Grow.;The+journey+of+innovation+never+ends." alt="Closing animation"/>
 
-currently_learning:
-  - Java
-  - Data Structures & Algorithms
-  - React.js
-  - Node.js
-  - Generative AI
-  - Microsoft Fabric
+<br/>
 
-developer_mindset:
-  - Learn
-  - Build
-  - Test
-  - Improve
-  - Share
-  - Grow
+**⭐ Explore my repositories and follow my developer journey!**
+
+<sub>Designed with curiosity • Built with code • Driven by continuous learning</sub>
+
+</div>
