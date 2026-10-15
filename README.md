@@ -60,51 +60,10 @@ I'm an aspiring Software Developer and Full Stack Developer who enjoys learning 
 - 🗄️ **Learning:** SQL and database management
 - 🚀 **Mission:** Build practical projects and continuously improve my skills
 
----
 
-<!-- ═══════════════ DEVELOPER MINDSET ═══════════════ -->
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:111827,50:4338CA,100:7C3AED&text=02%20%7C%20DEVELOPER%20MINDSET&fontSize=23&fontColor=FFFFFF"/>
 
-</div>
-
-```yaml
-developer:
-  name: Vignesh Kumar
-  github: vignesh452006
-  graduation: 2027
-
-career_goal:
-  - Software Developer
-  - Full Stack Developer
-
-interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Web Development
-  - Data Structures and Algorithms
-  - Database Management
-
-learning_path:
-  - Java
-  - Python
-  - SQL
-  - Flask
-  - HTML and CSS
-  - JavaScript
-  - Git and GitHub
-
-workflow:
-  - Understand the problem
-  - Plan the solution
-  - Write clean code
-  - Test and debug
-  - Improve and learn
-```
-
----
 
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 
@@ -142,98 +101,9 @@ workflow:
 
 </div>
 
----
 
-<!-- ═══════════════ PROJECT UNIVERSE ═══════════════ -->
 
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:020617,50:6D28D9,100:DB2777&text=04%20%7C%20PROJECT%20UNIVERSE&fontSize=23&fontColor=FFFFFF"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=700&color=F0ABFC&center=true&vCenter=true&width=650&height=35&lines=Build+with+purpose.;Create+with+curiosity.;Improve+with+every+project." alt="Project animation"/>
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 AI-Powered Quiz Master
-
-<a href="https://github.com/vignesh452006/QUIZ-MASTER">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Quiz Master repository"/>
-</a>
-
-A quiz and learning management application focused on quiz creation, assessment, result tracking, and AI-assisted question generation.
-
-**Technologies:** Python, Flask, SQLAlchemy, SQLite, JavaScript.
-
-</td>
-<td width="50%" valign="top">
-
-### 💬 Chat Application
-
-<a href="https://github.com/vignesh452006/chatapp">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Chat application repository"/>
-</a>
-
-A chat application project exploring conversational interfaces and AI integration.
-
-**Technologies:** JavaScript, Node.js, API integration.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/vignesh452006?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
-</a>
-
-</div>
-
-> Keep only project links that exist and descriptions that accurately reflect each repository's current implementation. Add more projects as you complete them.
-
----
-
-<!-- ═══════════════ GITHUB ANALYTICS ═══════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:020617,50:1D4ED8,100:0891B2&text=05%20%7C%20GITHUB%20ANALYTICS&fontSize=23&fontColor=FFFFFF"/>
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vignesh452006&show_icons=true&hide_border=true&bg_color=020617&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vignesh452006&layout=compact&hide_border=true&bg_color=020617&title_color=67E8F9&text_color=E2E8F0&langs_count=8" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=vignesh452006&hide_border=true&background=020617&ring=8B5CF6&fire=06B6D4&currStreakLabel=67E8F9&sideLabels=A78BFA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8" alt="Contribution streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=vignesh452006&bg_color=020617&color=67E8F9&line=8B5CF6&point=F0ABFC&area=true&hide_border=true&custom_title=CODING%20ACTIVITY" alt="GitHub activity graph"/>
-
-</div>
-
----
-
-<!-- ═══════════════ CONTRIBUTION SNAKE ═══════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:020617,50:312E81,100:0891B2&text=06%20%7C%20CONTRIBUTION%20MATRIX&fontSize=23&fontColor=FFFFFF"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/vignesh452006/vignesh452006/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
-
-</div>
-
----
 
 <!-- ═══════════════ CONNECT ═══════════════ -->
 
